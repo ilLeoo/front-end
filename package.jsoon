@@ -1,0 +1,13 @@
+npm init
+
+name: (nodejs-express-mongodb) 
+version: (1.0.0) 
+description: Node.js Restful CRUD API with Node.js, Express and MongoDB
+entry point: (index.js) server.js
+test command: 
+git repository: 
+keywords: nodejs, express, mongodb, rest, api
+author: bezkoder
+license: (ISC)
+
+Is this ok? (yes) yes
